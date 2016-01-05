@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_question">
+        <item>您的生日是什么？</item>
+        <item>您最爱听的音乐什么？</item>
+        <item>您印象最深的人是谁？</item>
+        <item>您最爱看的电影是什么？</item>
+    </string-array>
+    <string-array name="lost_find_type">
+        <item>U盘</item>
+        <item>钱包</item>
+        <item>书本</item>
+        <item>学生证</item>
+        <item>身份证</item>
+        <item>银行卡</item>
+        <item>自行车</item>
+    </string-array>
+    <string-array name="second_hand_type">
+        <item>生活/鞋子</item>
+        <item>生活/车辆</item>
+        <item>生活/化妆</item>
+        <item>生活/其他</item>
+        <item>电子/手机</item>
+        <item>电子/相机</item>
+        <item>电子/电脑</item>
+        <item>电子/其他</item>
+        <item>学习/CET</item>
+        <item>学习/考研</item>
+        <item>学习/考公</item>
+        <item>学习/其他</item>
+    </string-array>
+    <string-array name="second_hand_bargain">
+        <item>可议价</item>
+        <item>不可议价</item>
+    </string-array>
+	<string-array name="expend_analysis_type">
+        <item>该月</item>
+        <item>该年</item>
+    </string-array>
+</resources>

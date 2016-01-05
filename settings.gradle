@@ -1,0 +1,2 @@
+include ':share_sdk_library'
+include ':lifeAssistants'

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/actionbar_color" >
+
+    <ImageButton
+        android:id="@+id/top_menu_btn"
+        style="@style/common_top_menu"
+        android:contentDescription="@null"
+        android:onClick="topToggleClick" />
+
+    <RadioGroup
+        android:id="@+id/top_title_rg"
+        android:layout_width="180dip"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="4dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:layout_marginTop="4dip"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/top_title_square_rb"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_second_hand_title_rb_bg_01"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:paddingBottom="4dip"
+            android:paddingTop="4dip"
+            android:text="@string/second_hand_title_square"
+            android:textColor="@color/selector_second_hand_title_text"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/top_title_my_rb"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_second_hand_title_rb_bg_02"
+            android:button="@null"
+            android:gravity="center"
+            android:paddingBottom="4dip"
+            android:paddingTop="4dip"
+            android:text="@string/second_hand_title_my"
+            android:textColor="@color/selector_second_hand_title_text"
+            android:textSize="16sp" />
+    </RadioGroup>
+
+    <ImageButton
+        android:id="@+id/top_add_btn"
+        style="@style/common_top_add"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+</RelativeLayout>

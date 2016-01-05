@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <include
+        android:id="@+id/back_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/back_head" />
+
+    <LinearLayout
+        android:id="@+id/borrow_lend_bottom_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/borrow_lend_delete_btn"
+            style="@style/lost_find_bottom_btn"
+            android:drawableTop="@drawable/selector_lost_find_delete_btn"
+            android:text="@string/lost_find_delete" />
+
+        <Button
+            android:id="@+id/borrow_lend_submit_btn"
+            style="@style/lost_find_bottom_btn"
+            android:drawableTop="@drawable/selector_lost_find_submit_btn"
+            android:text="@string/lost_find_submit" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/borrow_lend_bottom_line_img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/borrow_lend_bottom_ll"
+        android:background="@drawable/filter_item_divider"
+        android:contentDescription="@null" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/borrow_lend_bottom_line_img"
+        android:layout_below="@id/back_head"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:orientation="vertical" >
+
+            <LinearLayout style="@style/lost_find_child_ll" >
+
+                <TextView
+                    android:id="@+id/borrow_lend_money"
+                    style="@style/lost_find_child_text"
+                    android:text="@string/borrow_lend_money" />
+
+                <EditText
+                    android:id="@+id/borrow_lend_money_edit"
+                    style="@style/lost_find_child_edit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/lost_find_child_ll" >
+
+                <TextView
+                    android:id="@+id/borrow_lend_person"
+                    style="@style/lost_find_child_text"
+                    android:text="@string/borrow_lend_person" />
+
+                <EditText
+                    android:id="@+id/borrow_lend_person_edit"
+                    style="@style/lost_find_child_edit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/lost_find_child_ll" >
+
+                <TextView
+                    android:id="@+id/borrow_lend_remark"
+                    style="@style/lost_find_child_text"
+                    android:text="@string/borrow_lend_remark" />
+
+                <EditText
+                    android:id="@+id/borrow_lend_remark_edit"
+                    style="@style/lost_find_child_edit" />
+            </LinearLayout>
+
+            <LinearLayout style="@style/lost_find_child_ll" >
+
+                <TextView
+                    android:id="@+id/borrow_lend_time"
+                    style="@style/lost_find_child_text"
+                    android:text="@string/borrow_lend_time" />
+
+                <EditText
+                    android:id="@+id/borrow_lend_time_edit"
+                    style="@style/lost_find_child_edit" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

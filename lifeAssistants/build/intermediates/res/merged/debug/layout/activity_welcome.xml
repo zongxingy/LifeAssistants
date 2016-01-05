@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/welcome_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/actionbar_color" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="88dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <com.yzx.lifeassistants.view.RoundedImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/welcome_logo"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_launcher"
+            app:riv_border_color="#FFF"
+            app:riv_border_width="2dip"
+            app:riv_corner_radius="30dip"
+            app:riv_mutate_background="true"
+            app:riv_oval="true" />
+
+        <TextView
+            android:id="@+id/welcome_logo_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:drawablePadding="8dp"
+            android:text="@string/welcome_app"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/textsize18" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dip"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/weclome_app_version"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/welcome_app_version"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/textsize14" />
+
+        <TextView
+            android:id="@+id/welcome_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip"
+            android:text="@string/welcome_user"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/textsize16" />
+    </LinearLayout>
+
+</RelativeLayout>

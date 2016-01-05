@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reg_title">用户注册</string>
+    <string name="reg_mail">请输入邮箱</string>
+    <string name="reg_btn">注&#160;&#160;册</string>
+    <string name="reg_pwd">请输入密码</string>
+    <string name="reg_pwd_again">请再次输入密码</string>
+    <string name="reg_question_ans">请输入该问题的答案</string>
+
+</resources>

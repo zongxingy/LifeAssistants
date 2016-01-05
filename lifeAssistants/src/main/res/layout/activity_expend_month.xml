@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_refresh_layout"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/actionbar_color" >
+
+        <ImageButton
+            android:id="@+id/expend_month_back_btn"
+            style="@style/common_top_back"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:id="@+id/expend_month_title_tv"
+            style="@style/common_top_title" />
+    </RelativeLayout>
+
+    <com.baoyz.widget.PullRefreshLayout
+        android:id="@+id/expend_month_expend_pull_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.yzx.lifeassistants.view.widget.MySwipeMenuListView
+            android:id="@+id/expend_month_expend_lv"
+            style="@style/common_listview"
+            android:layout_marginLeft="15dp"
+            android:background="@color/white" />
+    </com.baoyz.widget.PullRefreshLayout>
+
+</LinearLayout>

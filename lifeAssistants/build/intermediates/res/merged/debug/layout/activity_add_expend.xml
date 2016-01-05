@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.yzx.lifeassistants"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/add_expend_head_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/actionbar_color" >
+
+        <ImageButton
+            android:id="@+id/add_expend_back_btn"
+            style="@style/common_top_back"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:id="@+id/add_expend_title_tv"
+            style="@style/common_top_title"
+            android:text="@string/add_expend_title" />
+
+        <ImageButton
+            android:id="@+id/add_expend_save_btn"
+            style="@style/common_top_save"
+            android:contentDescription="@null" />
+    </RelativeLayout>
+
+    <com.yzx.lifeassistants.view.widget.MyRadioGroup
+        android:id="@+id/add_expend_type_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/add_expend_type_study_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_study"
+                android:gravity="center"
+                android:text="@string/add_expend_type_study" />
+
+            <RadioButton
+                android:id="@+id/add_expend_type_shopping_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_shopping"
+                android:gravity="center"
+                android:text="@string/add_expend_type_shopping" />
+
+            <RadioButton
+                android:id="@+id/add_expend_type_entertainment_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_entertainment"
+                android:gravity="center"
+                android:text="@string/add_expend_type_entertainment" />
+
+            <RadioButton
+                android:id="@+id/add_expend_type_medical_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_medical"
+                android:gravity="center"
+                android:text="@string/add_expend_type_medical" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/add_expend_type_traffic_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_traffic"
+                android:gravity="center"
+                android:text="@string/add_expend_type_trafic" />
+
+            <RadioButton
+                android:id="@+id/add_expend_type_eat_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_eat"
+                android:gravity="center"
+                android:text="@string/add_expend_type_eat" />
+
+            <RadioButton
+                android:id="@+id/add_expend_type_lover_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_lover"
+                android:gravity="center"
+                android:text="@string/add_expend_type_lover" />
+
+            <RadioButton
+                android:id="@+id/add_expend_type_other_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableTop="@drawable/icon_type_other"
+                android:gravity="center"
+                android:text="@string/add_expend_type_other" />
+        </LinearLayout>
+    </com.yzx.lifeassistants.view.widget.MyRadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/add_expend_checked_type_tv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/icon_study"
+            android:gravity="center"
+            android:text="@string/add_expend_type_study"
+            android:textColor="@color/text_black_color" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/add_expend_money_et"
+            style="@style/material_edittext_with_validate"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:drawableRight="@drawable/icon_money"
+            android:gravity="center_vertical|right"
+            android:inputType="number"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:met_clearButton="false"
+            app:met_floatingLabel="none"
+            app:met_singleLineEllipsis="false" >
+        </com.rengwuxian.materialedittext.MaterialEditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical" >
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/add_expend_time_et"
+            style="@style/material_edittext_no_clearbtn"
+            android:hint="@string/add_expend_date" >
+        </com.rengwuxian.materialedittext.MaterialEditText>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/add_expend_remark_et"
+            style="@style/material_edittext_with_clearbtn"
+            android:hint="@string/add_expend_remark" >
+        </com.rengwuxian.materialedittext.MaterialEditText>
+    </LinearLayout>
+
+</LinearLayout>

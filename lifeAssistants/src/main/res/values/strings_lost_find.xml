@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lost_find_title">失物招领</string>
+    <string name="lost_find_lost">失物找寻</string>
+    <string name="lost_find_find">拾取招领</string>
+    <string name="lost_find_submit">提交</string>
+    <string name="lost_find_delete">删除</string>
+    <string name="lost_find_items">物品信息</string>
+    <string name="lost_find_items_title">标题</string>
+    <string name="lost_find_items_type">类型</string>
+    <string name="lost_find_items_describe">描述</string>
+    <string name="lost_find_items_pic">物品图片:</string>
+    <string name="lost_find_items_take_pic">拍照添加</string>
+    <string name="lost_find_items_open_pic">添加图片</string>
+    <string name="lost_find_other">其他信息</string>
+    <string name="lost_find_other_phone">手机</string>
+    <string name="lost_find_other_palce">地点</string>
+    <string name="lost_find_other_time">时间</string>
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="second_hand_search_title">闲置搜索</string>
+    <string name="second_hand_search_content">全部分类</string>
+    <string name="second_hand_search">搜  索</string>
+
+    <string-array name="second_hand_search_type">
+        <item>生活/鞋子</item>
+        <item>生活/车辆</item>
+        <item>生活/化妆</item>
+        <item>生活/其他</item>
+        <item>电子/手机</item>
+        <item>电子/相机</item>
+        <item>电子/电脑</item>
+        <item>电子/其他</item>
+        <item>学习/CET</item>
+        <item>学习/考研</item>
+        <item>学习/考公</item>
+        <item>学习/其他</item>
+    </string-array>
+
+</resources>

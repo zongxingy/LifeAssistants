@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="modify_pwd_title">修改密码</string>
+    <string name="modify_pwd_old">请输入旧密码</string>
+    <string name="modify_pwd_btn">修改密码</string>
+    <string name="modify_pwd_new">请输入新密码</string>
+    <string name="modify_pwd_new_again">请再次输入新密码</string>
+
+</resources>

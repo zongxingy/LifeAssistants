@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/actionbar_color" >
+
+    <ImageButton
+        android:id="@+id/top_menu_btn"
+        style="@style/common_top_menu"
+        android:contentDescription="@null"
+        android:onClick="topToggleClick" />
+
+    <TextView
+        android:id="@+id/top_title_tv"
+        style="@style/common_top_title"
+        android:text="@string/setting" />
+
+    <ImageButton
+        android:id="@+id/top_add_btn"
+        style="@style/common_top_add"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/top_analysis_btn"
+        style="@style/common_top_pie"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+</RelativeLayout>

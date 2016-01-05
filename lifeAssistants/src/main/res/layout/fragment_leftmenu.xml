@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/leftmenu_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:background="@android:color/white" >
+
+    <RelativeLayout
+        android:id="@+id/leftmenu_toprl"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/mat2" >
+
+        <com.yzx.lifeassistants.view.RoundedImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/leftmenu_login_tv"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerInParent="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/user_ioc"
+            android:visibility="gone"
+            app:riv_border_color="#FFF"
+            app:riv_border_width="1dip"
+            app:riv_corner_radius="30dip"
+            app:riv_mutate_background="true"
+            app:riv_oval="true" />
+
+        <LinearLayout
+            android:id="@+id/leftmenu_animll_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical" >
+
+            <com.yzx.lifeassistants.view.RoundedImageView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/leftmenu_user_icon"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="fitCenter"
+                android:src="@drawable/user_ioc"
+                app:riv_border_color="#FFF"
+                app:riv_border_width="1dip"
+                app:riv_corner_radius="30dip"
+                app:riv_mutate_background="true"
+                app:riv_oval="true" />
+
+            <TextView
+                android:id="@+id/leftmenu_user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="@string/leftmenu_username"
+                android:textColor="#FFF"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/leftmenu_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:background="@android:color/white"
+        android:cacheColorHint="#00000000"
+        android:choiceMode="singleChoice"
+        android:divider="@color/drawer_bottom_line"
+        android:dividerHeight="0.5dp"
+        android:drawSelectorOnTop="false"
+        android:listSelector="#00000000" >
+    </ListView>
+
+</RelativeLayout>

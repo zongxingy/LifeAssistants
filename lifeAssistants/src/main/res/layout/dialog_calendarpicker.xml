@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white" >
+
+    <LinearLayout
+        android:id="@+id/dialog_calendarpicker_btn_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/dialog_cancle_btn"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:text="@string/dialog_btn_cancle"
+            android:textColor="@color/text_black_color"
+            android:textSize="17sp" />
+
+        <ImageView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/gray"
+            android:contentDescription="@null"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp" />
+
+        <Button
+            android:id="@+id/dialog_confirm_btn"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:text="@string/dialog_btn_confirm"
+            android:textColor="@color/actionbar_color"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+    <com.squareup.timessquare.CalendarPickerView
+        android:id="@+id/calendar_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/dialog_calendarpicker_btn_ll"
+        android:background="#FFFFFF"
+        android:clipToPadding="false"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:scrollbarStyle="outsideOverlay" />
+
+</RelativeLayout>

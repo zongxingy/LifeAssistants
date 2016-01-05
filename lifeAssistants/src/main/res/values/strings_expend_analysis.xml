@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="expend_analysis_title">账单分析</string>
+    <string name="expend_analysis_today">8</string>
+    <string name="expend_analysis_day">今天</string>
+    <string name="expend_analysis_date">8号</string>
+    <string name="expend_analysis_money">总支出：50元</string>
+    <string name="expend_analysis_month">本月</string>
+    <string name="expend_analysis_month_date">12月</string>
+    <string name="expend_analysis_year">本年</string>
+    <string name="expend_analysis_year_date">2015年</string>
+    <string name="pie_month_no_data">本月暂无支出</string>
+    <string name="pie_year_no_data">本年暂无支出</string>
+    <string name="expend_bar_analysis_title">月支出</string>
+    <string name="expend_bar_analysis_type">选择类型：</string>
+    <string name="expend_bar_analysis_date">选择日期：</string>
+    <string name="expend_bar_analysis_date_">2015&#8211;10&#8211;15</string>
+    <string name="expend_bar_analysis_query">查询</string>
+    <string name="expend_bar_analysis_remark">盛世经典牛排</string>
+    <string name="expend_bar_analysis_money">65元</string>
+
+    <string-array name="expend_bar_analysis_type">
+        <item>月支出</item>
+        <item>年支出</item>
+    </string-array>
+
+    <string name="expend_year_title">2015年支出</string>
+    <string name="expend_month_analysis_bar">柱形图</string>
+    <string name="expend_month_analysis_pie">饼状图</string>
+
+</resources>

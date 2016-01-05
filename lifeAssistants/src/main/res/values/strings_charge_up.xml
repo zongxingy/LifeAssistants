@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="charge_up_title">记账能手</string>
+    <string name="charge_up_alimony">点击设置每月生活费</string>
+    <string name="charge_up_balance">余额</string>
+    <string name="charge_up_month">12</string>
+    <string name="charge_up_year">/2015</string>
+
+</resources>

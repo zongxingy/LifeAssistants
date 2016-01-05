@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\selector_second_hand_detail_radiobtn.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\selector_second_hand_detail_radiobtn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\selector_second_hand_title_text.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\selector_second_hand_title_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\selector_menu_item_text.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\selector_menu_item_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\selector_arrayadapter_item_text.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\selector_arrayadapter_item_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\selector_lost_find_btn.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\selector_lost_find_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\timessquare_calendar_text_selector.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\timessquare_calendar_text_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\color\\switch_thumb_material_dark.xml"
+    }
+]

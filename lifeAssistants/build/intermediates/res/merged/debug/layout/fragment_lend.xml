@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res/com.yzx.lifeassistants"
+        android:id="@+id/lend_list_listview"
+        style="@style/common_listview"
+        android:layout_height="match_parent"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:smoothScrollbar="true"
+        ptr:ptrMode="both" />
+
+</RelativeLayout>

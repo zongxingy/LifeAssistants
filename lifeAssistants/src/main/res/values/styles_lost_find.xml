@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="lost_find_top_rbtn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@color/selector_lost_find_btn</item>
+        <item name="android:textSize">@dimen/textsize16</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="lost_find_bottom_btn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/text_black_color</item>
+        <item name="android:textSize">@dimen/textsize14</item>
+        <item name="android:background">@drawable/selector_gray_white_btn</item>
+    </style>
+
+    <style name="lost_find_item_group_rl">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="lost_find_other_group_rl">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/selector_gray_white_btn</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="lost_find_item_group_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textColor">@color/text_black_color</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="new_lost_find_arrow_img">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@drawable/arrow_down</item>
+    </style>
+
+    <style name="lost_find_child_parent_ll">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:paddingTop">15dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingBottom">15dp</item>
+    </style>
+
+    <style name="lost_find_child_ll">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+
+    <style name="lost_find_child_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/lost_find_detail_text</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:drawableLeft">@drawable/icon_info</item>
+    </style>
+
+    <style name="lost_find_child_edit">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/selector_login_et_bg</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:hint"></item>
+        <item name="android:paddingLeft">10dip</item>
+    </style>
+
+    <style name="lost_find_child_spinner">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/selector_spinner_bg</item>
+        <item name="android:focusable">true</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:paddingLeft">10dip</item>
+    </style>
+
+</resources>

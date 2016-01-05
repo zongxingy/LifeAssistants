@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_refresh_layout"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/actionbar_color" >
+
+        <ImageButton
+            android:id="@+id/expend_year_back_btn"
+            style="@style/common_top_back"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:id="@+id/expend_year_title_tv"
+            style="@style/common_top_title"
+            android:text="@string/expend_year_title" />
+    </RelativeLayout>
+
+    <com.baoyz.widget.PullRefreshLayout
+        android:id="@+id/expend_year_expend_pull_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_content"
+            android:fillViewport="true"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_content"
+                android:orientation="vertical" >
+
+                <com.yzx.lifeassistants.view.widget.MySwipeMenuListView
+                    android:id="@+id/expend_year_expend_lv"
+                    style="@style/common_listview"
+                    android:layout_marginLeft="15dp" />
+
+                <com.yzx.lifeassistants.view.widget.CustomHScrollView
+                    android:id="@+id/expend_year_horizontalscrollview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="20dp"
+                    android:scrollbars="none" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <com.github.mikephil.charting.charts.BarChart
+                            android:id="@+id/expend_year_chart"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/bg_content"
+                            android:visibility="gone" />
+                    </LinearLayout>
+                </com.yzx.lifeassistants.view.widget.CustomHScrollView>
+            </LinearLayout>
+        </ScrollView>
+    </com.baoyz.widget.PullRefreshLayout>
+
+</LinearLayout>

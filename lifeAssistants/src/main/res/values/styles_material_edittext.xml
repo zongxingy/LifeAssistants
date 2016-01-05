@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="material_edittext_with_clearbtn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="met_clearButton">true</item>
+        <item name="met_floatingLabel">highlight</item>
+        <item name="met_iconPadding">5dp</item>
+        <item name="met_primaryColor">@color/actionbar_color</item>
+        <item name="met_singleLineEllipsis">true</item>
+        <item name="met_textColor">@color/text_black_color</item>
+    </style>
+
+    <style name="material_edittext_no_clearbtn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="met_floatingLabel">highlight</item>
+        <item name="met_iconPadding">5dp</item>
+        <item name="met_primaryColor">@color/actionbar_color</item>
+        <item name="met_singleLineEllipsis">true</item>
+        <item name="met_textColor">@color/text_black_color</item>
+    </style>
+
+    <style name="material_edittext_with_validate">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="met_clearButton">true</item>
+        <item name="met_floatingLabel">highlight</item>
+        <item name="met_iconPadding">5dp</item>
+        <item name="met_primaryColor">@color/actionbar_color</item>
+        <item name="met_singleLineEllipsis">true</item>
+        <item name="met_autoValidate">true</item>
+        <item name="met_textColor">@color/text_black_color</item>
+    </style>
+
+    <style name="material_edittext_not_singleline">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="met_clearButton">true</item>
+        <item name="met_floatingLabel">highlight</item>
+        <item name="met_iconPadding">5dp</item>
+        <item name="met_primaryColor">@color/actionbar_color</item>
+        <item name="met_singleLineEllipsis">false</item>
+        <item name="met_textColor">@color/text_black_color</item>
+    </style>
+
+</resources>

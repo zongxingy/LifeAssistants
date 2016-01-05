@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="borrow_lend_title">借入借出</string>
+    <string name="borrow">借入明细</string>
+    <string name="lend">借出明细</string>
+    <string name="borrow_lend_borrow">借入明细</string>
+    <string name="borrow_lend_lend">借出明细</string>
+    <string name="borrow_lend_money">金额:</string>
+    <string name="borrow_lend_person">姓名:</string>
+    <string name="borrow_lend_time">时间:</string>
+    <string name="borrow_lend_remark">备注:</string>
+
+</resources>

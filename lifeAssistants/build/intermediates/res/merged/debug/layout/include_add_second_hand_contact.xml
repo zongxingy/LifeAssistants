@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/second_hand_contact_title_rl"
+        style="@style/lost_find_item_group_rl" >
+
+        <ImageView
+            android:id="@+id/second_hand_contact_title_icon_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:src="@drawable/icon_other_title" />
+
+        <TextView
+            android:id="@+id/second_hand_contact_title_text"
+            style="@style/lost_find_item_group_text"
+            android:layout_toRightOf="@id/second_hand_contact_title_icon_img"
+            android:text="@string/second_hand_contact_title" />
+
+        <ImageView
+            android:id="@+id/second_hand_contact_title_arrow_img"
+            style="@style/new_lost_find_arrow_img"
+            android:contentDescription="@null" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/filter_item_divider"
+        android:contentDescription="@null" />
+
+    <LinearLayout
+        android:id="@+id/second_hand_contact_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            style="@style/lost_find_child_parent_ll"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical" >
+
+            <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                android:id="@+id/second_hand_contact_bargain_spinner"
+                style="@style/material_edittext_no_clearbtn"
+                android:hint="@string/second_hand_contact_bargain"
+                app:met_iconLeft="@drawable/icon_bargain"
+                app:met_singleLineEllipsis="false" />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/second_hand_contact_qq_et"
+                style="@style/material_edittext_with_validate"
+                android:hint="@string/second_hand_contact_qq"
+                android:inputType="number"
+                app:met_iconLeft="@drawable/icon_qq_left" />
+
+            <com.rengwuxian.materialedittext.MaterialEditText
+                android:id="@+id/second_hand_contact_phone_et"
+                style="@style/material_edittext_with_validate"
+                android:hint="@string/second_hand_contact_phone"
+                android:inputType="number"
+                app:met_iconLeft="@drawable/icon_phone_left" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/filter_item_divider"
+            android:contentDescription="@null"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

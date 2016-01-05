@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/actionbar_color" >
+
+    <ImageButton
+        android:id="@+id/top_back_btn"
+        style="@style/common_top_back"
+        android:contentDescription="@null"
+        android:onClick="topBack" />
+
+    <TextView
+        android:id="@+id/top_title_tv"
+        style="@style/common_top_title"
+        android:text="@string/setting" />
+
+    <ImageButton
+        android:id="@+id/top_share_btn"
+        style="@style/common_top_share"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/top_send_btn"
+        style="@style/common_top_send"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+</RelativeLayout>

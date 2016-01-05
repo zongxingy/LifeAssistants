@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_refresh_layout" >
+
+    <include
+        android:id="@+id/main_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        layout="@layout/main_head" />
+
+    <com.baoyz.widget.PullRefreshLayout
+        android:id="@+id/charge_up_pull_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/main_head" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white" >
+
+            <ImageButton
+                android:id="@+id/charge_up_add_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/selector_add_charge_up"
+                android:contentDescription="@null" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/charge_up_add_btn"
+                android:layout_marginBottom="20dp"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/charge_up_percent_rl"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/charge_up_month_tv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/charge_up_month"
+                            android:textColor="@color/actionbar_color"
+                            android:textSize="22sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/charge_up_year_tv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/charge_up_year"
+                            android:textColor="@color/black" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/charge_up_percent_ll"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:gravity="center"
+                        android:orientation="vertical" >
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/actionbar_color" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/charge_up_alimony_ll"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingBottom="10dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="20dp" >
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/icon_charge_up_alimony"
+                            android:contentDescription="@null" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="10dp"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/charge_up_alimony_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center_vertical"
+                                android:text="@string/charge_up_alimony"
+                                android:textColor="@color/text_black_color" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center_vertical"
+                                android:text="@string/charge_up_alimony"
+                                android:textColor="@color/text_black_color" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:orientation="horizontal" >
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="1dp"
+                            android:layout_weight="3"
+                            android:background="@color/actionbar_color" />
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="1dp"
+                            android:layout_weight="1" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/charge_up_balance_ll"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingBottom="10dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="20dp" >
+
+                        <ImageView
+                            android:id="@+id/charge_up_balance_iv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="10dp"
+                            android:background="@drawable/icon_balance_1"
+                            android:contentDescription="@null" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="10dp"
+                            android:orientation="vertical" >
+
+                            <TextView
+                                android:id="@+id/charge_up_balance_tv"
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center_vertical"
+                                android:text="@string/charge_up_balance"
+                                android:textColor="@color/text_black_color" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="center_vertical"
+                                android:text="@string/charge_up_balance"
+                                android:textColor="@color/text_black_color" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:orientation="horizontal" >
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="1dp"
+                            android:layout_weight="1"
+                            android:background="@color/actionbar_color" />
+
+                        <View
+                            android:layout_width="0dp"
+                            android:layout_height="1dp"
+                            android:layout_weight="1" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </com.baoyz.widget.PullRefreshLayout>
+
+</RelativeLayout>

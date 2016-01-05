@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.balysv.materialripple.MaterialRippleLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:mrl_rippleAlpha="0.6"
+    app:mrl_rippleColor="@color/ripple_light"
+    app:mrl_rippleHover="true"
+    app:mrl_rippleOverlay="true" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="start|center_vertical"
+        android:minHeight="@dimen/md_listitem_height"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/md_simplelistitem_padding_top"
+        android:paddingEnd="@dimen/md_dialog_frame_margin"
+        android:paddingLeft="@dimen/md_dialog_frame_margin"
+        android:paddingRight="@dimen/md_dialog_frame_margin"
+        android:paddingStart="@dimen/md_dialog_frame_margin"
+        android:paddingTop="@dimen/md_simplelistitem_padding_top" >
+
+        <ImageView
+            android:id="@android:id/icon"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="@dimen/md_simplelist_icon_margin"
+            android:layout_marginRight="@dimen/md_simplelist_icon_margin"
+            android:scaleType="fitStart"
+            tools:background="#f5f5f5"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@android:id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="?android:textColorSecondary"
+            android:textSize="@dimen/md_content_textsize"
+            tools:text="Title" />
+    </LinearLayout>
+
+</com.balysv.materialripple.MaterialRippleLayout>

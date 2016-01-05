@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/second_hand_square_search_title"
+            android:textColor="@color/actionbar_color"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/second_hand_divider"
+            android:contentDescription="@null" />
+
+        <RelativeLayout
+            android:id="@+id/second_hand_square_search_rl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:background="@drawable/bg_search_bar" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="@null"
+                android:drawableLeft="@drawable/icon_search"
+                android:drawablePadding="5dp"
+                android:padding="5dp"
+                android:text="@string/second_hand_square_search"
+                android:textColor="@color/gray_btn_bg_pressed_color" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/second_hand_divider"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_green"
+            android:padding="5dp"
+            android:text="@string/second_hand_living_things"
+            android:textColor="@color/white" />
+
+        <com.yzx.lifeassistants.view.widget.CustomGridView
+            android:id="@+id/second_hand_living_things_gv"
+            style="@style/second_hand_gridview" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/second_hand_divider"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_green"
+            android:padding="5dp"
+            android:text="@string/second_hand_electronics"
+            android:textColor="@color/white" />
+
+        <com.yzx.lifeassistants.view.widget.CustomGridView
+            android:id="@+id/second_hand_electronics_gv"
+            style="@style/second_hand_gridview" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/second_hand_divider"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_green"
+            android:padding="5dp"
+            android:text="@string/second_hand_school_things"
+            android:textColor="@color/white" />
+
+        <com.yzx.lifeassistants.view.widget.CustomGridView
+            android:id="@+id/second_hand_school_things_gv"
+            style="@style/second_hand_gridview" />
+    </LinearLayout>
+
+</ScrollView>

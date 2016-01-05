@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/item_expend_icon_money_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/icon_expend_money_green"
+        android:contentDescription="@null" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/item_expend_icon_money_iv"
+        android:layout_alignTop="@id/item_expend_icon_money_iv"
+        android:layout_marginRight="20dp"
+        android:layout_toRightOf="@id/item_expend_icon_money_iv"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp" >
+
+        <TextView
+            android:id="@+id/item_expend_range_tv"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:text="@string/expend_bar_analysis_remark"
+            android:textColor="@color/text_black_color" />
+
+        <TextView
+            android:id="@+id/item_expend_total_money_tv"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="left|center_vertical"
+            android:text="@string/expend_bar_analysis_money"
+            android:textColor="@color/text_black_color" />
+    </LinearLayout>
+
+</RelativeLayout>

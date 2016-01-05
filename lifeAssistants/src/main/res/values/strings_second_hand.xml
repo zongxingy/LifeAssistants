@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="second_hand_title">二手市场</string>
+    <string name="second_hand_title_square">广场</string>
+    <string name="second_hand_title_my">我的</string>
+    <string name="second_hand_square_search_title">快速搜索</string>
+    <string name="second_hand_square_search">搜索</string>
+    <string name="second_hand_living_things">生活用品</string>
+    <string name="second_hand_electronics">电子产品</string>
+    <string name="second_hand_school_things">学习用品</string>
+    <string name="second_hand_item">物品信息</string>
+    <string name="second_hand_item_title">标题</string>
+    <string name="second_hand_item_type">类型</string>
+    <string name="second_hand_item_price">价格</string>
+    <string name="second_hand_item_describe">描述</string>
+    <string name="second_hand_item_pic">物品图片:</string>
+    <string name="second_hand_contact_title">联系信息</string>
+    <string name="second_hand_contact_bargain">议价</string>
+    <string name="second_hand_contact_qq">QQ</string>
+    <string name="second_hand_contact_phone">手机</string>
+
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/back_head" />
+
+    <RelativeLayout
+        android:id="@+id/second_hand_detail_pic_rl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="4" >
+
+        <com.yzx.lifeassistants.view.widget.CycleViewPager
+            android:id="@+id/second_hand_detail_pic_viewpager"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true" />
+
+        <LinearLayout
+            android:id="@+id/second_hand_detail_pic_dot_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" />
+
+        <com.romainpiel.titanic.library.TitanicTextView
+            android:id="@+id/second_hand_detail_no_pic_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/second_hand_detail_no_pic"
+            android:textColor="@color/white"
+            android:textSize="60sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:orientation="vertical"
+        android:paddingBottom="15dp" >
+
+        <TextView
+            android:id="@+id/second_hand_detail_info_title_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/text_black_color"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/second_hand_detail_info_item_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:checked="true"
+                android:drawableBottom="@drawable/selector_second_hand_detail_line"
+                android:drawablePadding="1dp"
+                android:gravity="center"
+                android:text="@string/second_hand_detail_item"
+                android:textColor="@color/selector_second_hand_detail_radiobtn" />
+
+            <RadioButton
+                android:id="@+id/second_hand_detail_info_contact_rb"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:button="@null"
+                android:drawableBottom="@drawable/selector_second_hand_detail_line"
+                android:drawablePadding="1dp"
+                android:gravity="center"
+                android:text="@string/second_hand_detail_contact"
+                android:textColor="@color/selector_second_hand_detail_radiobtn" />
+        </RadioGroup>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/second_hand_detail_info_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="0dp" />
+    </LinearLayout>
+
+</LinearLayout>

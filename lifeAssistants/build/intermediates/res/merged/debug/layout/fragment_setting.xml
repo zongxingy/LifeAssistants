@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/main_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        layout="@layout/main_head" />
+
+    <RelativeLayout
+        android:id="@+id/setting_quit_app_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/radius_green_rangle" >
+
+        <Button
+            android:id="@+id/setting_quit_app_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_drak_bg"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/setting_quit_app"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize18" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/setting_quit_app_rl"
+        android:layout_below="@id/main_head"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/setting_user_icon_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_user_icon_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="@string/setting_user_icon_tips" />
+
+                <com.yzx.lifeassistants.view.RoundedImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/setting_user_icon_image"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/selector_settings_item_down"
+                    android:contentDescription="@null"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/user_icon_default_main"
+                    app:riv_border_color="#FFF"
+                    app:riv_border_width="1dip"
+                    app:riv_corner_radius="30dip"
+                    app:riv_mutate_background="true"
+                    app:riv_oval="true" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_user_nick_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_user_nick_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:paddingBottom="8dip"
+                    android:paddingTop="8dip"
+                    android:text="@string/setting_user_nick_tips" />
+
+                <TextView
+                    android:id="@+id/setting_user_nick_text"
+                    style="@style/TextTheme.tipstheme_second"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:paddingBottom="8dip"
+                    android:paddingTop="8dip" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_sex_choice_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_sex_choice_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:paddingBottom="8dip"
+                    android:paddingTop="8dip"
+                    android:text="@string/setting_sex" />
+
+                <CheckBox
+                    android:id="@+id/setting_sex_choice_switch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:button="@drawable/selector_sex_choice"
+                    android:scaleType="centerInside" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_rember_pwd_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_rember_pwd_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:paddingBottom="8dip"
+                    android:paddingTop="8dip"
+                    android:text="@string/setting_rember_pwd" />
+
+                <CheckBox
+                    android:id="@+id/setting_rember_pwd_switch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:button="@drawable/selector_rember_pwd_choice"
+                    android:checked="false"
+                    android:scaleType="centerInside" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_auto_login_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_auto_login_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:paddingBottom="8dip"
+                    android:paddingTop="8dip"
+                    android:text="@string/setting_auto_login" />
+
+                <CheckBox
+                    android:id="@+id/setting_auto_login_switch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:button="@drawable/selector_rember_pwd_choice"
+                    android:checked="false"
+                    android:scaleType="centerInside" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_update_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_update_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:drawableLeft="@drawable/ico_setting_update"
+                    android:drawablePadding="8dp"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="@string/setting_update_tips" />
+
+                <ImageView
+                    android:id="@+id/setting_update_go"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/setting_update_go" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_modify_pwd_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_modify_pwd_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:drawableLeft="@drawable/ico_setting_modify_pwd"
+                    android:drawablePadding="10dp"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="@string/setting_modify_pwd_tips" />
+
+                <ImageView
+                    android:id="@+id/setting_modify_pwd_go"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/setting_update_go" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_logout_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_logout_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:drawableLeft="@drawable/ico_setting_logout"
+                    android:drawablePadding="8dp"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="@string/setting_logout_tips" />
+
+                <ImageView
+                    android:id="@+id/setting_logout_go"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/setting_update_go" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+
+            <RelativeLayout
+                android:id="@+id/setting_feedback_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="8dp" >
+
+                <TextView
+                    android:id="@+id/setting_feedback_tips"
+                    style="@style/TextTheme.tipstheme"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:drawableLeft="@drawable/ico_setting_feedback"
+                    android:drawablePadding="5dp"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:text="@string/setting_feedback_tips" />
+
+                <ImageView
+                    android:id="@+id/setting_feedback_go"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="20dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/setting_update_go" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/gray" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

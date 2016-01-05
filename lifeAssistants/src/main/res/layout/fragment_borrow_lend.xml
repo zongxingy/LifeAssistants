@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/main_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        layout="@layout/main_head" />
+
+    <RadioGroup
+        android:id="@+id/borrow_lend_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/borrow_rb"
+            style="@style/lost_find_top_rbtn"
+            android:checked="true"
+            android:text="@string/borrow_lend_borrow" />
+
+        <RadioButton
+            android:id="@+id/lend_rb"
+            style="@style/lost_find_top_rbtn"
+            android:text="@string/borrow_lend_lend" />
+    </RadioGroup>
+
+    <com.viewpagerindicator.UnderlinePageIndicator
+        android:id="@+id/borrow_lend_indicator"
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:layout_above="@id/borrow_lend_rg" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/borrow_lend_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/borrow_lend_indicator"
+        android:layout_below="@id/main_head" />
+
+</RelativeLayout>

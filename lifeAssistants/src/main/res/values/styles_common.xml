@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="common_textView_Green">
+        <item name="android:textColor">@color/text_green_color</item>
+    </style>
+
+    <style name="common_textView_White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="common_textView_Gray">
+        <item name="android:textColor">@color/text_gray_color</item>
+    </style>
+
+    <style name="common_textView_Black">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textColor">@color/text_black_color</item>
+    </style>
+
+    <style name="common_gray_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/gray_line</item>
+    </style>
+
+    <style name="common_black_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/black_line</item>
+    </style>
+
+    <style name="common_top_back">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/selector_top_back</item>
+    </style>
+
+    <style name="common_top_menu">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:src">@drawable/selector_top_menu</item>
+    </style>
+
+    <style name="common_top_add">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/selector_top_add</item>
+    </style>
+
+    <style name="common_top_pie">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/icon_pie</item>
+    </style>
+
+    <style name="common_top_bar">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/icon_bar</item>
+    </style>
+
+    <style name="common_top_calendar">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/icon_calendar</item>
+    </style>
+
+    <style name="common_top_classify">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:src">@drawable/icon_classify</item>
+    </style>
+
+    <style name="common_top_share">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@color/actionbar_color</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/icon_share</item>
+    </style>
+
+    <style name="common_top_save">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/icon_save</item>
+    </style>
+
+    <style name="common_top_send">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@drawable/selector_top_ico_bg</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:src">@drawable/icon_send</item>
+    </style>
+
+    <style name="common_top_title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/textsize19</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="common_edittext">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#303030</item>
+        <item name="android:textColorHint">#c9c9c9</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="common_listview">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@drawable/filter_item_divider</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="common_nodivider_listview">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@null</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="CommonDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@drawable/common_toast_bg</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="BaseDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:textColorPrimary">@color/text_color_primary</item>
+        <item name="android:textColorSecondary">@color/text_second_color_primary</item>
+        <item name="android:windowEnterAnimation">@anim/abc_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/abc_fade_out</item>
+    </style>
+
+    <style name="ShareDialog" parent="BaseDialogTheme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="LodingDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.balysv.materialripple.MaterialRippleLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selector_menu_item_bg"
+    app:mrl_rippleAlpha="0.6"
+    app:mrl_rippleColor="#38beb3"
+    app:mrl_rippleHover="true"
+    app:mrl_rippleOverlay="true" >
+
+    <TextView
+        android:id="@+id/leftmenu_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"
+        android:textColor="@color/selector_menu_item_text" />
+
+</com.balysv.materialripple.MaterialRippleLayout>

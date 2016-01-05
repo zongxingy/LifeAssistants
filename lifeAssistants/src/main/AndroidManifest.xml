@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yzx.lifeassistants"
+    android:versionCode="6"
+    android:versionName="2.1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+
+    <!-- BmobPush SDK权限 -->
+    <permission
+        android:name="cn.bmob.permission.push"
+        android:protectionLevel="normal" >
+    </permission>
+
+    <uses-permission android:name="cn.bmob.permission.push" /> <!-- 添加自定义的权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+
+    <application
+        android:name="com.yzx.lifeassistants.base.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme.MyTheme" >
+
+        <!-- ##################### Bmob 检查更新 ################### -->
+        <activity
+            android:name="cn.bmob.v3.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+        <!-- ##################### Share SDK #################### -->
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- ############ QQ空间和QQ SSO授权的Activity注册 ############ -->
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- 100424468，如果你使用的公用账号，则不需要修改；否则修改成你在QQ开放平台申请的 APP ID -->
+                <data android:scheme="tencent1104957398" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.connect.common.AssistActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+
+        <!-- 微信分享回调 -->
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- 友盟分享APPID -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="56025c8a67e58e3ccc00361e" >
+        </meta-data>
+        <!-- 分享编辑页 -->
+        <!--
+        <activity
+            android:name="com.umeng.socialize.view.ShareActivity"
+            android:configChanges="orientation|keyboard"
+            android:launchMode="singleTask"
+            android:noHistory="true"
+            android:theme="@style/Theme.UMDialog"
+            android:windowSoftInputMode="stateVisible|adjustResize" >
+        </activity>
+        -->
+        <!-- 调用新浪原生SDK，需要注册的回调activity -->
+        <activity
+            android:name="cn.sharesdk.sina.weibo.SinaActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- ############      com.yzx.lifeassistants     ############ -->
+        <activity
+            android:name="com.yzx.lifeassistants.activity.WelcomActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.UserRegActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ForgetPwdActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.LostAndFindActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ImagePagerActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.BorrowAndLendActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ModifyPwdActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.EditUserNickActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.FeedbackActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.AddSecondHandActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.SecondHandDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.SecondHandClassifyActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.SecondHandSearchActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.SetAlimonyActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.AddExpendActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ExpendPieAnalysisActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ExpendBarAnalysisActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ExpendYearActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ExpendMonthActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ExpendDateActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.yzx.lifeassistants.activity.ExpendMonthAnalysisActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <service
+            android:name="cn.bmob.push.lib.service.PushService"
+            android:exported="true"
+            android:label="PushService"
+            android:permission="cn.bmob.permission.push"
+            android:process="cn.bmob.push" >
+            <intent-filter>
+                <action android:name="cn.bmob.push.lib.service.PushService" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="cn.bmob.push.PushReceiver" >
+            <intent-filter android:priority="2147483647" > <!-- 优先级加最高 -->
+                <!-- 系统启动完成后会调用 -->
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <!-- 解锁完成后会调用 -->
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <!-- 监听网络连通性 -->
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 第四部中创建的消息接收器，在这里进行注册 -->
+        <receiver android:name="com.yzx.lifeassistants.receiver.MyPushMessageReceiver" >
+            <intent-filter>
+                <action android:name="cn.bmob.push.action.MESSAGE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

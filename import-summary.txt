@@ -1,0 +1,161 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From LifeAssistants:
+* .gitignore
+* ic_launcher-web.png
+* icon_del.png
+* life.keystore
+* proguard-project.txt
+From share_sdk_library:
+* .DS_Store
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\gradle.xml
+* .idea\misc.xml
+* .idea\workspace.xml
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:22.2.1
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:22.2.1]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In share_sdk_library:
+* AndroidManifest.xml => share_sdk_library\src\main\AndroidManifest.xml
+* libs\bolts-android-1.1.4.jar => share_sdk_library\libs\bolts-android-1.1.4.jar
+* libs\httpmime-4.1.3.jar => share_sdk_library\libs\httpmime-4.1.3.jar
+* libs\SocialSDK_actionbarview.jar => share_sdk_library\libs\SocialSDK_actionbarview.jar
+* libs\SocialSDK_AtFriends.jar => share_sdk_library\libs\SocialSDK_AtFriends.jar
+* libs\SocialSDK_comment.jar => share_sdk_library\libs\SocialSDK_comment.jar
+* libs\SocialSDK_email.jar => share_sdk_library\libs\SocialSDK_email.jar
+* libs\SocialSDK_evernote.jar => share_sdk_library\libs\SocialSDK_evernote.jar
+* libs\SocialSDK_facebook_1.jar => share_sdk_library\libs\SocialSDK_facebook_1.jar
+* libs\SocialSDK_facebook_2.jar => share_sdk_library\libs\SocialSDK_facebook_2.jar
+* libs\SocialSDK_flickr.jar => share_sdk_library\libs\SocialSDK_flickr.jar
+* libs\SocialSDK_instagram.jar => share_sdk_library\libs\SocialSDK_instagram.jar
+* libs\SocialSDK_kakao.jar => share_sdk_library\libs\SocialSDK_kakao.jar
+* libs\SocialSDK_laiwang_1.jar => share_sdk_library\libs\SocialSDK_laiwang_1.jar
+* libs\SocialSDK_laiwang_2.jar => share_sdk_library\libs\SocialSDK_laiwang_2.jar
+* libs\SocialSDK_like.jar => share_sdk_library\libs\SocialSDK_like.jar
+* libs\SocialSDK_line.jar => share_sdk_library\libs\SocialSDK_line.jar
+* libs\SocialSDK_linkedin.jar => share_sdk_library\libs\SocialSDK_linkedin.jar
+* libs\SocialSDK_pinterest.jar => share_sdk_library\libs\SocialSDK_pinterest.jar
+* libs\SocialSDK_pocket.jar => share_sdk_library\libs\SocialSDK_pocket.jar
+* libs\SocialSDK_QQZone_1.jar => share_sdk_library\libs\SocialSDK_QQZone_1.jar
+* libs\SocialSDK_QQZone_2.jar => share_sdk_library\libs\SocialSDK_QQZone_2.jar
+* libs\SocialSDK_QQZone_3.jar => share_sdk_library\libs\SocialSDK_QQZone_3.jar
+* libs\SocialSDK_renren_1.jar => share_sdk_library\libs\SocialSDK_renren_1.jar
+* libs\SocialSDK_renren_2.jar => share_sdk_library\libs\SocialSDK_renren_2.jar
+* libs\SocialSDK_scrshot.jar => share_sdk_library\libs\SocialSDK_scrshot.jar
+* libs\SocialSDK_shake.jar => share_sdk_library\libs\SocialSDK_shake.jar
+* libs\SocialSDK_tencentWB_1.jar => share_sdk_library\libs\SocialSDK_tencentWB_1.jar
+* libs\SocialSDK_tencentWB_2.jar => share_sdk_library\libs\SocialSDK_tencentWB_2.jar
+* libs\SocialSDK_tencentWB_3.jar => share_sdk_library\libs\SocialSDK_tencentWB_3.jar
+* libs\SocialSDK_tumblr.jar => share_sdk_library\libs\SocialSDK_tumblr.jar
+* libs\SocialSDK_UserCenter.jar => share_sdk_library\libs\SocialSDK_UserCenter.jar
+* libs\SocialSDK_WeiXin_1.jar => share_sdk_library\libs\SocialSDK_WeiXin_1.jar
+* libs\SocialSDK_WeiXin_2.jar => share_sdk_library\libs\SocialSDK_WeiXin_2.jar
+* libs\SocialSDK_whatsapp.jar => share_sdk_library\libs\SocialSDK_whatsapp.jar
+* libs\SocialSDK_yixin_1.jar => share_sdk_library\libs\SocialSDK_yixin_1.jar
+* libs\SocialSDK_yixin_2.jar => share_sdk_library\libs\SocialSDK_yixin_2.jar
+* libs\SocialSDK_ynote.jar => share_sdk_library\libs\SocialSDK_ynote.jar
+* libs\umeng_social_sdk.jar => share_sdk_library\libs\umeng_social_sdk.jar
+* lint.xml => share_sdk_library\lint.xml
+* res\ => share_sdk_library\src\main\res\
+* src\ => share_sdk_library\src\main\java
+In LifeAssistants:
+* AndroidManifest.xml => lifeAssistants\src\main\AndroidManifest.xml
+* assets\ => lifeAssistants\src\main\assets\
+* libs\Bmob_Push_V0.6beta_20150408.jar => lifeAssistants\libs\Bmob_Push_V0.6beta_20150408.jar
+* libs\BmobSDK_V3.4.5_1111.jar => lifeAssistants\libs\BmobSDK_V3.4.5_1111.jar
+* libs\FlycoAnimation_Lib-v1.0.0.jar => lifeAssistants\libs\FlycoAnimation_Lib-v1.0.0.jar
+* libs\FlycoDialog_Lib-v1.0.0.jar => lifeAssistants\libs\FlycoDialog_Lib-v1.0.0.jar
+* libs\MobCommons.jar => lifeAssistants\libs\MobCommons.jar
+* libs\MobTools.jar => lifeAssistants\libs\MobTools.jar
+* libs\mpandroidchartlibrary-2-1-6.jar => lifeAssistants\libs\mpandroidchartlibrary-2-1-6.jar
+* libs\okhttp-2.4.0.jar => lifeAssistants\libs\okhttp-2.4.0.jar
+* libs\okio-1.4.0.jar => lifeAssistants\libs\okio-1.4.0.jar
+* libs\ShareSDK-Core-2.6.4.jar => lifeAssistants\libs\ShareSDK-Core-2.6.4.jar
+* libs\ShareSDK-Email-2.6.4.jar => lifeAssistants\libs\ShareSDK-Email-2.6.4.jar
+* libs\ShareSDK-QQ-2.6.4.jar => lifeAssistants\libs\ShareSDK-QQ-2.6.4.jar
+* libs\ShareSDK-QZone-2.6.4.jar => lifeAssistants\libs\ShareSDK-QZone-2.6.4.jar
+* libs\ShareSDK-ShortMessage-2.6.4.jar => lifeAssistants\libs\ShareSDK-ShortMessage-2.6.4.jar
+* libs\ShareSDK-SinaWeibo-2.6.4.jar => lifeAssistants\libs\ShareSDK-SinaWeibo-2.6.4.jar
+* libs\ShareSDK-TencentWeibo-2.6.4.jar => lifeAssistants\libs\ShareSDK-TencentWeibo-2.6.4.jar
+* libs\ShareSDK-Wechat-2.6.4.jar => lifeAssistants\libs\ShareSDK-Wechat-2.6.4.jar
+* libs\ShareSDK-Wechat-Core-2.6.4.jar => lifeAssistants\libs\ShareSDK-Wechat-Core-2.6.4.jar
+* libs\ShareSDK-Wechat-Favorite-2.6.4.jar => lifeAssistants\libs\ShareSDK-Wechat-Favorite-2.6.4.jar
+* libs\ShareSDK-Wechat-Moments-2.6.4.jar => lifeAssistants\libs\ShareSDK-Wechat-Moments-2.6.4.jar
+* libs\systembartint-1.0.4.jar => lifeAssistants\libs\systembartint-1.0.4.jar
+* libs\universal-image-loader-1.9.1.jar => lifeAssistants\libs\universal-image-loader-1.9.1.jar
+* lint.xml => lifeAssistants\lint.xml
+* res\ => lifeAssistants\src\main\res\
+* src\ => lifeAssistants\src\main\java\
+* src\.define => lifeAssistants\src\main\resources\.define
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

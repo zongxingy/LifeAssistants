@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/back_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/back_head" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@android:color/white"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical" >
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/login_mail_et"
+            style="@style/material_edittext_with_validate"
+            android:hint="@string/login_mail"
+            android:inputType="textEmailAddress"
+            app:met_iconLeft="@drawable/icon_email" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/login_pwd_et"
+            style="@style/material_edittext_with_clearbtn"
+            android:hint="@string/login_pwd"
+            android:inputType="textPassword"
+            app:met_iconLeft="@drawable/icon_password"
+            app:met_maxCharacters="16" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/radius_green_rangle" >
+
+        <Button
+            android:id="@+id/login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_drak_bg"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/login_btn"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize18" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp" >
+
+        <TextView
+            android:id="@+id/user_reg_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:padding="3dp"
+            android:text="@string/login_user_reg"
+            android:textColor="@color/text_green_color" />
+
+        <TextView
+            android:id="@+id/forget_pwd_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:clickable="true"
+            android:padding="3dp"
+            android:text="@string/login_forget_pwd"
+            android:textColor="@color/text_green_color" />
+    </RelativeLayout>
+
+</LinearLayout>

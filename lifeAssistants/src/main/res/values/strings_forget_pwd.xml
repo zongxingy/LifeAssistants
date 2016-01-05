@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="forget_pwd_title">忘记密码</string>
+    <string name="forget_pwd_mail">请输入邮箱</string>
+    <string name="forget_pwd_btn">重置密码</string>
+    <string name="forget_pwd_question_ans">请输入该问题的答案</string>
+    <string name="forget_pwd_pwd">请输入新密码</string>
+    <string name="forget_pwd_pwd_again">请再次输入密码</string>
+
+</resources>

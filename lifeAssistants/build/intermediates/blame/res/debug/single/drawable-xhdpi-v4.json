@@ -1,0 +1,1254 @@
+[
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_time.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_time.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_twitter_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_twitter_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_setting_logout.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ico_setting_logout.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_sohusuishenkan_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohusuishenkan_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_auth_follow_cb_chd.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\black_line.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\black_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_get_pic_big.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_get_pic_big.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_flickr.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_flickr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_white_bg.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\btn_white_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_expend_money_red.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_expend_money_red.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_shortmessage.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_shortmessage.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_line.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_qzone.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_push_on.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_push_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_pie.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_pie.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_search_btn_pressed.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_search_btn_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_linkedin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_linkedin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_tencentweibo.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_expend_go.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_expend_go.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_password_again.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_password_again.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_yixinmoments.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_icon.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wchat_pulltorefresh_indicator_arrow.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\wchat_pulltorefresh_indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_email_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_email_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_linkedin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_linkedin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_yixin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_kakaostory.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_kakaostory.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_balance_3.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_balance_3.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_qq.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qq.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_remark.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_remark.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_actionbar_ok_btn.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_neteasemicroblog_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_neteasemicroblog_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_baidutieba.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_baidutieba.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gray_line.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\gray_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_phone_little.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_phone_little.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_qzone_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_pocket_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pocket_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_items_title.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_items_title.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_wechatmoments.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_wechatfavorite.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_mingdao_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_mingdao_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_googleplus.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_googleplus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_alipay.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_alipay.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_yixin_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixin_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_wechat.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_wechat.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_instapaper_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instapaper_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_evernote_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_evernote_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_neteasemicroblog.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_neteasemicroblog.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_kakaostory_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaostory_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_title_back.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_title_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_bluetooth.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_bluetooth.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_evernote.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_evernote.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_edittext_back.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_edittext_back.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_bar_pie.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_bar_pie.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_dot_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_dot_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_search.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_settings_item_down_pressed.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_settings_item_down_pressed.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_btn_green.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_btn_green.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_push_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_push_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wchat_pulltorefresh_default_ptr_rotate.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\wchat_pulltorefresh_default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_take_pic_big.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_take_pic_big.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_yaoyiyao.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_line_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_line_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_twitter.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_twitter.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_btn_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_btn_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_instagram.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_instagram.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_describe.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_describe.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_instapaper.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_instapaper.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_yixinmoments_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixinmoments_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_wechatmoments_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatmoments_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_today.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_today.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_balance_1.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_balance_1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_instagram.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instagram.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_nick.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_nick.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_go_search.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_go_search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_kakaotalk_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaotalk_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_pinterest.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_pinterest.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_title.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_title.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_whatsapp.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_whatsapp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_shortmessage.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_shortmessage.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_place.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_place.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_classify.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_classify.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_btn_back_nor.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_btn_back_nor.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_password.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_password.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_close.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_youdao.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_youdao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_wechat_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_setting_update.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ico_setting_update.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_actionbar_back_btn.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_balance_2.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_balance_2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_wechat.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_facebookmessenger.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_evernote.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_evernote.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_pocket.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pocket.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_search_btn.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_search_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_linkedin_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_linkedin_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_blue_point.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_blue_point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_foursquare.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_foursquare.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\white.jpg",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\white.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_kaixin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kaixin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_sohusuishenkan.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_qq_left.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_qq_left.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_lost_find_delete_on.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\btn_lost_find_delete_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_date.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_date.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_facebookmessenger_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebookmessenger_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_flickr.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_flickr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_pin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_pin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_price.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_price.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_whatsapp_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_whatsapp_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sex_male.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_sex_male.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_expend_analysis_type_spinner.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_expend_analysis_type_spinner.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_youdao_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_youdao_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_renren.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_renren.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_wechatfavorite.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatfavorite.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_yixinmoments.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_yixinmoments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_editpage_image_remove.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_settings_item_down_normal.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_settings_item_down_normal.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_charge_up_alimony.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_charge_up_alimony.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_platform_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_platform_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_wechatfavorite_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_wechatfavorite_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_vkontakte.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_vkontakte.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_sohumicroblog_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohumicroblog_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_del.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_del.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\slidedatetimepicker_selection_divider.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\slidedatetimepicker_selection_divider.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_editpage_divider.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_tencentweibo.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_tencentweibo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_kakaotalk.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_facebook_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebook_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_shortmessage_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_shortmessage_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_wechatmoments.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_wechatmoments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_qzone.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sina_logo.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_sina_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_delete.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_googleplus.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_googleplus.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_setting_modify_pwd.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ico_setting_modify_pwd.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_douban_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_douban_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_alipayshare_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_alipayshare_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_money.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_money.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_lost_find_submit_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\btn_lost_find_submit_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_title_shadow.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_title_shadow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_calendar.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_calendar.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_email.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_email.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_img_cancel.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_img_cancel.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_type.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_type.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_expend_money_green.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_expend_money_green.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_facebookmessenger.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebookmessenger.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\met_ic_clear.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\met_ic_clear.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_auth_follow_cb_unc.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_renren_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_renren_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_tumblr.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_tumblr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_vkontakte.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_vkontakte.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_flickr_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_flickr_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_balance_4.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_balance_4.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wx_moments.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_wx_moments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_kakaotalk.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaotalk.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_share_more.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_share_more.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_sohusuishenkan.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_bar.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_googleplus_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_googleplus_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_pinterest.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pinterest.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_douban.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_douban.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_other_title.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_other_title.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_facebook.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_facebook.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_instagram_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instagram_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_qq_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_editpage_image_bg.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_dropbox.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_dropbox.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_foursquare_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_foursquare_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\filter_item_divider.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\filter_item_divider.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_email.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_email.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_btn_green_pressed.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_btn_green_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_phone_left.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_phone_left.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_sinaweibo_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sinaweibo_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_laiwangmoments.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_sinaweibo.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_send_icon.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_expend_analysis_edit.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_expend_analysis_edit.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_douban.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_douban.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_light_blue_point.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_light_blue_point.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_email.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_email.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_expand_more_black_18dp.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_expand_more_black_18dp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_facebook.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_facebook.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wchat_pulltorefresh_default_ptr_flip.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\wchat_pulltorefresh_default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_add.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_add.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_tumblr_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tumblr_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_qq.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_qq.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_bluetooth_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_dot_on.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_dot_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_yixin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_yixin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_lost_find_delete_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\btn_lost_find_delete_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wx_collect.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_wx_collect.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_pocket.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_pocket.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_toast_bg.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\common_toast_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_renren.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_renren.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wx_logo.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_wx_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_baidutieba_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_baidutieba_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_kakaostory.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kakaostory.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_editpage_close.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_close.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_cursor.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_cursor.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_instapaper.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_instapaper.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_bargain.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_bargain.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_bluetooth.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_password_new.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_password_new.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_mingdao.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_mingdao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_save.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_save.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_line.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_vkontakte_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_vkontakte_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_laiwangmoments.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_laiwangmoments.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_month.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_month.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_foursquare.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_foursquare.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gray.jpg",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\gray.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_dropbox.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_dropbox.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_drawable.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\default_ptr_drawable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_platform_checked_disabled.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_kaixin_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_kaixin_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_laiwang.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_laiwang.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_sinaweibo.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_sinaweibo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_mingdao.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_mingdao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_whatsapp.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_whatsapp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_youdao.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_youdao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_laiwangmoments_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_laiwangmoments_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_dropbox_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_dropbox_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_pinterest_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_pinterest_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_twitter.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_twitter.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sex_female.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_sex_female.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_tumblr.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tumblr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_more_grey.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ic_more_grey.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_tencentweibo_checked.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_tencentweibo_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_year.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_year.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_lost_find_submit_on.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\btn_lost_find_submit_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_add_pic.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\icon_add_pic.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_alipayshare.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_alipayshare.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_auth_title_back.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_auth_title_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_logo_sohumicroblog.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_logo_sohumicroblog.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_shake_to_share_back.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_skyblue_editpage_bg.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_logo_kaixin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_logo_kaixin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ico_setting_feedback.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\ico_setting_feedback.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg_btn_gray_pressed.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable-xhdpi\\bg_btn_gray_pressed.png"
+    }
+]

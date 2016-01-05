@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <include
+        android:id="@+id/back_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/back_head" />
+
+    <LinearLayout
+        android:id="@+id/new_lost_find_bottom_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/lost_find_delete_btn"
+            style="@style/lost_find_bottom_btn"
+            android:background="@null"
+            android:drawableTop="@drawable/btn_lost_find_delete_off"
+            android:text="@string/lost_find_delete" />
+
+        <Button
+            android:id="@+id/lost_find_submit_btn"
+            style="@style/lost_find_bottom_btn"
+            android:background="@null"
+            android:drawableTop="@drawable/btn_lost_find_submit_off"
+            android:text="@string/lost_find_submit" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/new_lost_find_bottom_line_img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/new_lost_find_bottom_ll"
+        android:background="@drawable/filter_item_divider"
+        android:contentDescription="@null" />
+
+    <ScrollView
+        android:id="@+id/lost_find_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/new_lost_find_bottom_line_img"
+        android:layout_below="@id/back_head"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/lost_find_content_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <include
+                android:id="@+id/new_lost_find_items"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/include_new_lost_find_items" />
+
+            <include
+                android:id="@+id/new_lost_find_other"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/include_new_lost_find_other" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

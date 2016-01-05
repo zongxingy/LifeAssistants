@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LifeAssistants.iml" filepath="$PROJECT_DIR$/LifeAssistants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifeAssistants/lifeAssistants.iml" filepath="$PROJECT_DIR$/lifeAssistants/lifeAssistants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/share_sdk_library/share_sdk_library.iml" filepath="$PROJECT_DIR$/share_sdk_library/share_sdk_library.iml" />
+    </modules>
+  </component>
+</project>

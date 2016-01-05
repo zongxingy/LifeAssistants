@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\mpandroidchartlibrary-2-1-6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f8beaf2f9b5357717e0b1ef9f6820e517784ea1">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-1-6_89bd2726243e4bc91a916501428b900e4f803836.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd688ade74f7457758a7e3653344fd9de1708c4d">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\umeng_social_sdk_1e1aa2629c196cf4895ade8acd1d538fdcff3797.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-Wechat-Moments-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc2b46a70ccf00592d33c3afde812993d9db4ac9">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.4_ec6b5362991edee0b36b58dad60cd59cb3ecb5f2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_ynote.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59334ff59266780e7bacd1fd1d324dbdd51821e9">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_ynote_e1e3d5d39269affefb3f1787714438479068c255.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_like.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29057fff72aaa7e5168f224cbd1d362fc79c4b01">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_like_82a3b46cf74c8bafa35b6309dd27e61be5579c74.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-TencentWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83cf7f24b0717fbe9272342f0b971ed4af13d106">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.6.4_65a6aa59f18d39959fcf2fbec42edbab58a8fe56.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e225080a20edf0a0c10171ed032a24ec58675ea">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\httpmime-4.1.3_415a382f9e91e69c0da201f4d3e353066b37e362.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_pinterest.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="952a4dd0fe1c4da1beb8d2d804a7c4bb42cfd403">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_pinterest_9acec24d5f02e282af8e19d6b02f37220e55d264.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_email.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2aa0d5afe82cefe6c3e8cfc7c72aeef57015490">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_email_ad4b09c8ae7879718d6dee85890e9b9dd1f14419.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-QQ-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e8d59be1960d4e1b1f9119cc77966e5f7c9fb7bd">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.4_adf57c26d3b41a9913abfbb53b81195cf96212d9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="209c2520eeb61282a3b8307be4fe52350f956a23">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2_ca411866bb73a1c3863a1989bf6264c09523b9c2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19e01b2f42125146aa7240acb43c111731a9a100">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_4cd13d3d38526349a221e3723fdbdbfd230b0c6e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bcde885ad407fa05b2ecce841ad99d47e22ebc47">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2_4fe57e8c85877cfa0cf8b11df80f2f58ee8b7d0b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\httpclient-4.5.1_9489ea696444f83e5b34b477f3bfbe7fee80716b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d703c73f0aee1c31c2b765540bbebd584e356b8">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_2_066e66b1d94ac8da6f52254e6b08c4fefd102de6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_linkedin.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="80341be19b0bc826cbf0743c929ac1b4ef313e7c">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_linkedin_4a946a09de8e58c8bc343106e73121c90a824624.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7bb32fc69b3520f10333fcc5cdd78a4495761a64">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.4_157f412b85ac9fe9aa0b80e77e1cbe8ce6e93452.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_comment.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d1610e0774c77044c3d611fab4f6705c2cfd812">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_comment_f45250fee154ab55aa997fd9e1403c50d27f44d1.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_39056fd23265003e58c96448195b8b4818e8baeb.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9bcb3d7356d1f44462e1c5b85a9d6f776a059676">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2_77d3fd9256e6472a2bc2c056c21f4d8c1119638c.jar" />
+    </item>
+    <item
+        jar="D:\sdk\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_f65de1e87790313bf8dc836342e98662bdc51151.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-SinaWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4536d9f7a5fb826609d5a17b30cabb21ead18d1c">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.4_e97df0850b0a81eaa2ce8e4b93c2310fb79cbd9a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-Email-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81a92328963aea17992c71f3f95e60c355c570c3">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-Email-2.6.4_98a0fc0bf61f9289ada2d248d78f7ca52a8cbf56.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\MobTools.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4aae467e0a293d5d5cd0643e51b7b854bcc397c8">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\MobTools_5904a5a2057409c24e4888a953c8fed3209d7d27.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_shake.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="457e0f941713f2b8782d709189445920f2fb579f">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_shake_6520be72afeff977cd79019f40cd35f126d7c637.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-Wechat-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="100546a136041bcbeb9b90790b6361c932545676">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.4_d7106fbfce23a6bd32070e72a30a8c764555b806.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_yixin_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f3d53fd9e910862c3498b143fac573af765cb24">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_yixin_1_d90a8e079bcba8522adf2f0038a38114d4229d33.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-Wechat-Favorite-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd820f646c7b0315feb16ec95ae4686fa50ac74f">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.6.4_b6dad1673d4f230ff1f5dc46baca1e681a710604.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_AtFriends.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0a70b943665525a53d5825ad3f786793d5c3670">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_AtFriends_6e8ca0caca12f88022dc18a54c6638376433f728.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\BmobSDK_V3.4.5_1111.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44e559d18fd5a4826b0a4c0354308213e4f658a2">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.5_1111_2a957d08b15491330d8c3542b10affecde4a4694.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\FlycoDialog_Lib-v1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7fbbb52746d9584f168d677ffb28dfa799ef8531">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\FlycoDialog_Lib-v1.0.0_6326f9f8e75aef6ab9937fd48bad71b8d3096854.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_tumblr.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43e0935164474a46d4090687eeeecd91a1e36c4a">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_tumblr_58c2aab1e7131ec4fb5085b38cea2257876cd2e8.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_evernote.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb0bf19d9dbd5f71ec00b7da5b99372621fe2403">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_evernote_1e607848b3b4af436ed973f52184ce2484b0b1c6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f71081214b28f6647edd5361249b86759e9a4122">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\classes_3690e6b1eaee3d72a594b6ce304becda88acd090.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_pocket.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e31c0139364eb3b72e2d63528a4926fbff8d20c3">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_pocket_584b94c4481eb31e11059e9c09a5d9d4e1d6df6e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-Wechat-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6e8417962070d895b3567c68f104f628462bc35">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.4_62d56be684c0b6d645dffc43385bab8ccc224eb5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_facebook_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ee552e05182cf302c2309f33f8d3824bb9fb7592">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_facebook_2_dc9e74c367fe5b3add4728a873ca05a0681a611b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_UserCenter.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6445292f08a8af664ef1607ccc0a42ed5aba48de">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_UserCenter_01fe23b027b07beb355ea1d2c31a3d2dd6e5e756.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\systembartint-1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06404f77b92ec723cc132e825afe85a07da85ee6">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\systembartint-1.0.4_c6bd7b95956903478a85c6ef3ef71b288e89ac9a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_yixin_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44aa72d7cf0b1e1d2beebab0b16622af9bf6d71f">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_yixin_2_971b3685df7407b0824d53eb993bb282c89c8051.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1_cf66ce471fef8fddd20c2ee65d76fb58267147c0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23132e1dd859ca0835245d253efe14fcc982c30d">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3_e8a1a120f6627b6d7da905e88bcd32a4a81c3b8f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cbc1b869ae19a9b926d582b4f97757ea3e793253">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3_449c3e8c278f8674151e589bc84178eed8d9266a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_renren_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f5ee71231083473b6dfe2a76d2c77988ddfa640b">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_renren_1_aaacc452e7eb4d71b039206de74340dd148d1d0c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_line.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de48d847841830e71f114eca1d20c743c6520b2c">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_line_3069edf27daffc87e8cdcbbfe8351cbb0ccc2797.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-ShortMessage-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="600c29e53c1196bde47dd1ceffbc4ba827d41ee3">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-ShortMessage-2.6.4_4aea79c5951da6342b52a48ff85740aec6269672.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_instagram.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c94f9ff7f57f44a321e6c83b3dade7ac31c3b290">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_instagram_460114dbdf6cb1e20ddc18341dd0a385745c7859.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7eee71a9fb43fe87a54d28c07ac852a4f1a748e">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_laiwang_1_c334942cd56c85089d1b51049087855290c1ac6f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23f59509fb253b3c4ea1bfb9628be2ea87c5b8af">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1_e4170b2dd98f4cdf4bee10072b14e295b977ffb2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_scrshot.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f67cd5b0873f4da36afa589456d53cfb9885307">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_scrshot_94507c46b9977cf6d3f2c15998e1c27b56f3e3f4.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_renren_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5dc52e2da2a618a9da2b42a5c1ba1d5133667de7">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_renren_2_8166c0db4d1ceb2dbaa0f686386569551a5cb923.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\FlycoAnimation_Lib-v1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8747721648f146a7eddeac34a0160548e008d995">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\FlycoAnimation_Lib-v1.0.0_abe121aa286837e57b4fe976405ad6783032ff35.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\okio-1.4.0_edab4f83a10e8340f4deb6a4504bff49cf1871b2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\httpcore-4.4.3_7c909dfe8af8ce0cc5928e2ea0f284b01aa3ec7a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_9631169d8e23160f06b4bf0d6fd9dc01823bcab1.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_actionbarview.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e01dab2980d99add47e2d511408ced853eefa766">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_actionbarview_87b1dd8339dc37a9f7665ad18cf04bbe3abc8fc5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\okhttp-2.4.0_3636f32f6d7b0064e50475a0dd062119da107f82.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_whatsapp.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7e4b446044cad6ea2485a01a42920398765bd02">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_whatsapp_d057722de8f771036165c02909e59958792fafc7.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\Bmob_Push_V0.6beta_20150408.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db21ec99c2c7bf91c67bf80f5c5c49a92dd0562e">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\Bmob_Push_V0.6beta_20150408_469a4e8712cffbc32ec93e2371ade05dca299336.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\MobCommons.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86052ea3c2fcfa2f2d25d71ae34ab20b8c2dca9a">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\MobCommons_3e4d2a58c9d77674da23bc20b78cd0f61b4b0c1c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_0922a87af9c64d325d5b4fe3954914c8df851a1f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_facebook_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="960bb93ce890ecb13b7c41a3d11b565fc697f162">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_facebook_1_921d8e1d9550090055fcdfe3fd0782e549feb625.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aedc290c1642f77a5cc8752b6ae611f6bf0fb21">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1_c2500193e98cc34350e9764f85651ccbf76acdcc.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_kakao.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c0aefe5c456656a26db06231c33079b03097885">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_kakao_bcebc89ef81466b254817fd3f93ca7610ebd4e46.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_flickr.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77e20f038cc04c79a0314420871dab56aec0bff5">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_flickr_12641809417be08f36491d78f21fb3e9c8f5ce20.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcd3e6fdba5a52e52a21870642b9aaf59456e550">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\instant-run_501e2756843b1fe3fb5b0031da56c46a692d505c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\exploded-aar\LifeAssistants\share_sdk_library\unspecified\jars\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e8c469d43f1dc40812c60a9ee0afb07d87c358f9">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1_7b6fd9c033440665783ed58546f0c9b7e61fdacc.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\libs\ShareSDK-QZone-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="606a553246f241278b45e19d5029c915ae49c316">
+        <dex dex="E:\AndroidStudioHome\LifeAssistants\lifeAssistants\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.4_5f7a7dec12ad126ea4db13cd0c39a0412b8ce8cf.jar" />
+    </item>
+
+</items>

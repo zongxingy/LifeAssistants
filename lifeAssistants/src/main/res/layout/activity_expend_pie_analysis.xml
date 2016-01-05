@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_refresh_layout" >
+
+    <RelativeLayout
+        android:id="@+id/expend_analysis_head_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/actionbar_color" >
+
+        <ImageButton
+            android:id="@+id/expend_analysis_back_btn"
+            style="@style/common_top_back"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:id="@+id/expend_analysis_title_tv"
+            style="@style/common_top_title"
+            android:text="@string/expend_analysis_title" />
+
+        <ImageButton
+            android:id="@+id/expend_analysis_bar_btn"
+            style="@style/common_top_bar"
+            android:contentDescription="@null" />
+    </RelativeLayout>
+
+    <com.baoyz.widget.PullRefreshLayout
+        android:id="@+id/expend_analysis_pull_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/expend_analysis_head_rl" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white" >
+
+            <LinearLayout
+                android:id="@+id/expend_analysis_data_rl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/expend_analysis_day_rl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/selector_material_ripple"
+                    android:clickable="true" >
+
+                    <TextView
+                        android:id="@+id/expend_analysis_todday_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/icon_today"
+                        android:gravity="center"
+                        android:paddingTop="8dp"
+                        android:text="@string/expend_analysis_today"
+                        android:textColor="@color/text_gray_color" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/expend_analysis_todday_tv"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="left"
+                            android:paddingLeft="10dp"
+                            android:paddingTop="10dp"
+                            android:text="@string/expend_analysis_day"
+                            android:textColor="@color/text_black_color"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/expend_analysis_day_tv"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="left"
+                            android:paddingBottom="10dp"
+                            android:paddingLeft="10dp"
+                            android:paddingTop="5dp"
+                            android:text="@string/expend_analysis_date"
+                            android:textColor="@color/text_gray_color"
+                            android:textSize="16sp" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/expend_analysis_day_expend_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:drawablePadding="10dp"
+                        android:drawableRight="@drawable/icon_expend_go"
+                        android:textColor="@color/text_black_color"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray" />
+
+                <RelativeLayout
+                    android:id="@+id/expend_analysis_month_rl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/selector_material_ripple"
+                    android:clickable="true" >
+
+                    <TextView
+                        android:id="@+id/expend_analysis_this_month_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/icon_month"
+                        android:gravity="center" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/expend_analysis_this_month_tv"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="left"
+                            android:paddingLeft="10dp"
+                            android:paddingTop="10dp"
+                            android:text="@string/expend_analysis_month"
+                            android:textColor="@color/text_black_color"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/expend_analysis_month_tv"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="left"
+                            android:paddingBottom="10dp"
+                            android:paddingLeft="10dp"
+                            android:paddingTop="5dp"
+                            android:text="@string/expend_analysis_month_date"
+                            android:textColor="@color/text_gray_color"
+                            android:textSize="16sp" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/expend_analysis_month_expend_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:drawablePadding="10dp"
+                        android:drawableRight="@drawable/icon_expend_go"
+                        android:textColor="@color/text_black_color"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray" />
+
+                <RelativeLayout
+                    android:id="@+id/expend_analysis_year_rl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/selector_material_ripple"
+                    android:clickable="true" >
+
+                    <TextView
+                        android:id="@+id/expend_analysis_this_year_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/icon_year"
+                        android:gravity="center" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/expend_analysis_this_year_tv"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="left"
+                            android:paddingLeft="10dp"
+                            android:paddingTop="10dp"
+                            android:text="@string/expend_analysis_year"
+                            android:textColor="@color/text_black_color"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/expend_analysis_year_tv"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:layout_weight="1"
+                            android:gravity="left"
+                            android:paddingBottom="10dp"
+                            android:paddingLeft="10dp"
+                            android:paddingTop="5dp"
+                            android:text="@string/expend_analysis_year_date"
+                            android:textColor="@color/text_gray_color"
+                            android:textSize="16sp" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/expend_analysis_year_expend_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="20dp"
+                        android:drawablePadding="10dp"
+                        android:drawableRight="@drawable/icon_expend_go"
+                        android:textColor="@color/text_black_color"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/gray" />
+            </LinearLayout>
+
+            <RadioGroup
+                android:id="@+id/expend_analysis_rg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/expend_analysis_month_rb"
+                    style="@style/lost_find_top_rbtn"
+                    android:checked="true"
+                    android:text="@string/expend_analysis_month" />
+
+                <RadioButton
+                    android:id="@+id/expend_analysis_year_rb"
+                    style="@style/lost_find_top_rbtn"
+                    android:text="@string/expend_analysis_year" />
+            </RadioGroup>
+
+            <com.viewpagerindicator.UnderlinePageIndicator
+                android:id="@+id/expend_analysis_indicator"
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:layout_above="@id/expend_analysis_rg" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/expend_analysis_viewpager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/expend_analysis_indicator"
+                android:layout_below="@id/expend_analysis_data_rl" />
+        </RelativeLayout>
+    </com.baoyz.widget.PullRefreshLayout>
+
+</RelativeLayout>

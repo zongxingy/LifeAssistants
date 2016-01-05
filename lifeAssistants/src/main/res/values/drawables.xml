@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="select_bg">#66eeeeee</drawable>
+    <drawable name="select_drak_bg">#33000000</drawable>
+    <drawable name="photo_gray">#e9ebec</drawable>
+    <drawable name="photo_white">#ffffff</drawable>
+    <drawable name="photo_blue">#1ebaf3</drawable>
+    <drawable name="transparent">#00FFFFFF</drawable>
+    <drawable name="default_pressed">#10000000</drawable>
+
+</resources>

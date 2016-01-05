@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="second_hand_detail_title">闲置详情</string>
+    <string name="second_hand_detail_no_pic">NO PICTURE</string>
+    <string name="second_hand_detail_item">物品信息</string>
+    <string name="second_hand_detail_contact">联系信息</string>
+
+</resources>

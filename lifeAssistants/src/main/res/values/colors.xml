@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="actionbar_color">#019587</color>
+    <color name="dark_green">#016f65</color>
+    <color name="drawer_bottom_line">#DFDFDF</color>
+    <color name="gray">#88cccccc</color>
+    <color name="white">#ffffff</color>
+    <color name="white_pressed">#f2e9e9</color>
+    <color name="light_white">#f8fff9</color>
+    <color name="green">#5cbe6c</color>
+    <color name="bg_body">#f9f8f6</color>
+    <color name="text_black_color">#444444</color>
+    <color name="photo_line_color">#cacaca</color>
+    <color name="text_green_color">#38beb3</color>
+    <color name="text_gray_color">#898989</color>
+    <color name="lost_find_info_bg">#efefef</color>
+    <color name="lost_find_detail_text">#555555</color>
+    <color name="text_color_primary">#212121</color>
+    <color name="text_second_color_primary">#727272</color>
+    <color name="window_background">@android:color/white</color>
+    <color name="index_text">#555555</color>
+    <color name="red">#d31943</color>
+    <color name="light_red">#d94a6a</color>
+    <color name="bg_refresh_layout">#bfc0bb</color>
+
+    <!-- slidedatetimepicker_library -->
+    <item name="gray_holo_dark" type="color">#ff464646</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+
+    <!-- sweetalert_library -->
+    <color name="float_transparent">#66000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="primary_text">#212121</color>
+    <color name="ripple_light">#b8b2b2</color>
+
+</resources>
