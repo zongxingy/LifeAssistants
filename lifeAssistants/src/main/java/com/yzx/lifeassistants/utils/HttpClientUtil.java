@@ -10,9 +10,6 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.mime.MultipartEntity;
-import org.apache.http.entity.mime.content.FileBody;
-import org.apache.http.entity.mime.content.StringBody;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.params.CoreConnectionPNames;
 import org.apache.http.params.CoreProtocolPNames;
@@ -84,60 +81,4 @@ public class HttpClientUtil {
 		}).start();
 	}
 
-	/**
-	 * 
-	 * @Description: 批量上传
-	 */
-	public static void batchUpload(final String serverUrl,
-			final List<String> fileUrls, final String userName,
-			final IHttpCallBack iHttpCallBack) {
-		new Thread(new Runnable() {
-
-			@Override
-			public void run() {
-				HttpClient client = new DefaultHttpClient();
-				client.getParams().setParameter(
-						CoreProtocolPNames.HTTP_CONTENT_CHARSET, "UTF-8");
-				client.getParams().setParameter(
-						CoreConnectionPNames.CONNECTION_TIMEOUT, 8000);
-				client.getParams().setParameter(
-						CoreConnectionPNames.SO_TIMEOUT, 8000);
-				HttpPost post = new HttpPost(serverUrl);
-				MultipartEntity mpEntity = new MultipartEntity();
-				for (int i = 0; i < fileUrls.size(); i++) {
-					File file = new File(fileUrls.get(i));
-					FileBody fileBody = new FileBody(file);
-					mpEntity.addPart("file" + (i + 1), fileBody);
-				}
-				try {
-					mpEntity.addPart(
-							"CREATE_USER_NAME",
-							new StringBody(
-									userName,
-									Charset.forName(org.apache.http.protocol.HTTP.UTF_8)));
-					post.setEntity(mpEntity);
-					HttpResponse res = client.execute(post);
-					String response = EntityUtils.toString(res.getEntity(),
-							"utf-8");
-					if (iHttpCallBack != null) {
-						iHttpCallBack.onFinish(response);
-					}
-				} catch (Exception e) {
-					if (iHttpCallBack != null) {
-						iHttpCallBack.onError(e);
-					}
-				} finally {
-					if (mpEntity != null) {
-						try {
-							mpEntity.consumeContent();
-						} catch (Exception e) {
-							if (iHttpCallBack != null) {
-								iHttpCallBack.onError(e);
-							}
-						}
-					}
-				}
-			}
-		}).start();
-	}
 }

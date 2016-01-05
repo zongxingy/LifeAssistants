@@ -79,7 +79,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 17 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 17 Platform (1)" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="SocialSDK_facebook_2" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_facebook_1" level="project" />
@@ -92,8 +92,8 @@
     <orderEntry type="library" exported="" name="SocialSDK_evernote" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_renren_2" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_renren_1" level="project" />
-    <orderEntry type="library" exported="" name="SocialSDK_tumblr" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_QQZone_1" level="project" />
+    <orderEntry type="library" exported="" name="SocialSDK_tumblr" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_WeiXin_1" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_WeiXin_2" level="project" />
     <orderEntry type="library" exported="" name="SocialSDK_QQZone_2" level="project" />

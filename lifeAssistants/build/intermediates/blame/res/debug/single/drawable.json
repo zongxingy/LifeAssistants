@@ -1,23 +1,31 @@
 [
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_pressed.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close_pressed.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drak_bg.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_drak_bg.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_grey.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_grey.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_material_ripple.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_material_ripple.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_settings_item_down.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_settings_item_down.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_selected.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_selected.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_bind_bg.9.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_second_hand_title_rb_bg_01.xml",
@@ -28,8 +36,8 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_dialog_bg.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
@@ -44,40 +52,40 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_like.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_normal.png"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest_gray.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pinterest_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_menu.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_menu.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_on.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_instagram_on.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_selected.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_selected.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_off.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_on.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_icon.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_actionbar_bg.9.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_actionbar_bg.9.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_line.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\shape_white_line.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
@@ -88,6 +96,10 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_btn_green.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_btn_green.xml"
     },
@@ -96,12 +108,24 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pulltorefresh_arrow.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_01f.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_01f.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_back.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_material_ripple.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_material_ripple.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wechat.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_gray_button_background.xml",
@@ -112,28 +136,16 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_mark.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_mark.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_white_bg_selector.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pocket_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\poupwindow_item_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\poupwindow_item_bg.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_icon.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_second_hand_detail_line.xml",
@@ -144,8 +156,16 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_linkedin_gray.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_blue.9.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_grey.9.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
@@ -156,28 +176,40 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_gmail_on.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_dialog_bg.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tumblr_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_01t.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_01t.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qq_on.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_line_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_like_background.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_lost_find_delete_btn.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_lost_find_delete_btn.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_evernote_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_gmail_off.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_corners_bg.xml",
@@ -196,6 +228,22 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_normal.png"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pocket.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_unlike.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_red.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_red.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_selected.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_selected.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_location_disabled.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_fetch_location_disabled.png"
     },
@@ -204,8 +252,12 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_lost_find_submit_btn.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_item_bg.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_menu_item_bg.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_selected.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_selected.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_imgview_border.xml",
@@ -216,8 +268,8 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qzone_off.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_off.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
@@ -228,8 +280,8 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tx_on.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_normal.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_circle_progress.xml",
@@ -240,44 +292,40 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_line.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\shape_white_line.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_checked.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_checked.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_linkedin.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_add_charge_up.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_add_charge_up.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_spinner_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_spinner_bg.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_02f.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_02f.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_normal.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_normal.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_like_background.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_off.png",
@@ -288,36 +336,20 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_ico_bg.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\radius_dark_green_rangle.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\radius_dark_green_rangle.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_on.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_icon.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_close.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook_close.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_success_circle.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_success_circle.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
@@ -328,8 +360,12 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_bg.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_success_bow.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_success_bow.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
@@ -344,12 +380,12 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_send_background.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote.png",
@@ -360,32 +396,24 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_white_gary.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_white_gary.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tx_off.png"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qzone_on.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -396,20 +424,8 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_dialog_background.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_pressed.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close_pressed.png"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp_gray.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_whatsapp_gray.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
@@ -420,48 +436,40 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_off.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_menu.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_menu.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_grey.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_grey.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_selected.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_selected.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gray_white_btn.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_gray_white_btn.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_add.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_add.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_whatsapp.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_white.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_ic.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_check_selector.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_button_style.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close_button_style.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pv.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pv.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_white.9.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_off.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
@@ -476,6 +484,870 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_normal.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pinterest_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_lost_find_submit_btn.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_lost_find_submit_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_warning_sigh.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_warning_sigh.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_bg.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sex_choice.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_sex_choice.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_01t.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_01t.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_back.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_back.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_green_line.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\shape_green_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_add.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_add.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_search_btn.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_search_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\rotate_circle_progress.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\rotate_circle_progress.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_edittext_corner.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_edittext_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_close.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_imgview_border.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_imgview_border.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_divider_line.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_white_gary.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_white_gary.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_item_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_menu_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_radiobutton.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_radiobutton.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_corners_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_warning_sigh.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_warning_sigh.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_success_bow.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_success_bow.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_instagram_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tumblr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_error_circle.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_error_circle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_add_charge_up.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_add_charge_up.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_selected.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_warning_circle.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_warning_circle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pocket_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_location_disabled.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_mark.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_search_bar.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bg_search_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_ico_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_ico_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_dialog_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_dialog_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_blue_button_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_blue_button_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_blue_button_background.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_blue_button_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_edittext_corner.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_edittext_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\poupwindow_item_bg.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\poupwindow_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_shake_layout_corner.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_shake_layout_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_02t.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_02t.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_linkedin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_instagram_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_material_ripple.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_material_ripple.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_selected.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_selected.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_actionbar_bg.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_btn_green.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_btn_green.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_01f.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_01f.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_mark.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pocket_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_rember_pwd_choice.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_rember_pwd_choice.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_error_circle.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_error_circle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_line_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_evernote_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_instagram_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_menu_item_bg.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_menu_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_02t.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_02t.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_line.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\shape_white_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_evernote_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_linkedin.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_normal.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_error_center_x.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_error_center_x.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\radius_dark_green_rangle.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\radius_dark_green_rangle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_success_circle.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_success_circle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_success_bow.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_success_bow.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sms_on.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_edit_pic.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_edit_pic.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\radius_green_rangle.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\radius_green_rangle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_second_hand_title_rb_bg_01.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_second_hand_title_rb_bg_01.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_success_circle.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_success_circle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\timessquare_calendar_bg_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\timessquare_calendar_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao_gray.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_pressed.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_menu.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_selected.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gray_white_btn.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_gray_white_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_button_style.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close_button_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
@@ -488,10 +1360,6 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_back.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_normal.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_share_normal.png"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
     },
@@ -500,64 +1368,64 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bg_search_bar.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_check.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wechat.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_on.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_gmail_on.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_divider_line.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_divider_line.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_search_icon.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tumblr.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_second_hand_title_rb_bg_02.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_second_hand_title_rb_bg_02.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_blue.9.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sex_choice.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_sex_choice.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_red.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_red.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_01t.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_01t.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr_gray.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tumblr_gray.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
@@ -572,8 +1440,12 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_line.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_button_style.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close_button_style.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_share_btn_style.xml",
@@ -584,20 +1456,12 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_red_button_background.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_green_line.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\shape_green_line.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_renren_off.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_add.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_top_add.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
@@ -608,8 +1472,32 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pv.png"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_shake_layout_corner.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_shake_layout_corner.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_01f.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_01f.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\radius_green_rangle.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\radius_green_rangle.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_share_btn_style.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_share_btn_style.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_back_selected.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\timessquare_calendar_bg_selector.xml",
@@ -632,8 +1520,12 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_warning_circle.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_whatsapp_gray.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_on.png",
@@ -644,40 +1536,36 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_back_selected.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_refersh.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_login_normal.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_check_selector.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_check_selector.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_renren_on.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_button.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr_gray.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sina_on.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_off.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_sms_off.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_off.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_facebook_off.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sex_choice.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_sex_choice.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
@@ -688,12 +1576,24 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wechat_gray.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_second_hand_title_rb_bg_02.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_second_hand_title_rb_bg_02.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_red_button_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_red_button_background.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
@@ -704,28 +1604,20 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pocket.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_radiobutton.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_radiobutton.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_gray.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_ynote_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_second_hand_detail_line.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_second_hand_detail_line.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_normal.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_on.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -740,16 +1632,16 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_error_center_x.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_warning_sigh.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_warning_sigh.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_default_avatar.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gray_white_btn.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_gray_white_btn.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_login_et_bg.xml",
@@ -760,20 +1652,28 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_off.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_instagram_off.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_linkedin_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_laiwang_gray.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_close.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_flickr.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_lost_find_delete_btn.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_lost_find_delete_btn.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_tumblr.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\radius_dark_green_rangle.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\radius_dark_green_rangle.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
@@ -784,68 +1684,80 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_error_circle.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_error_circle.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line_gray.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_line_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_btn_gray.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_btn_gray.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_blue_bg_round.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_wifi_disable.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_login_et_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_login_et_bg.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_button_white_blue.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_at_selected.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_evernote.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_02f.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_02f.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
@@ -860,56 +1772,56 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_douban_on.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_google.png"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_douban_off.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_kakao.png"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle.png"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_spinner_bg.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_spinner_bg.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_blue_button_background.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_blue_button_background.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_edit_pic.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_edit_pic.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_edittext_corner.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_edittext_corner.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_like.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_like.png"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drak_bg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_drak_bg.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_btn_gray.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_btn_gray.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\poupwindow_item_bg.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\poupwindow_item_bg.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_shake_layout_corner.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\shake_umeng_socialize_shake_layout_corner.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
@@ -924,28 +1836,52 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\sweetalert_gray_button_background.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\sweetalert_gray_button_background.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_unlike.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_rember_pwd_choice.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_rember_pwd_choice.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_actionbar_bg.9.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_radiobutton.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\selector_bg_radiobutton.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_green_line.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\shape_green_line.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_checked.png",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_checked.png"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\second_hand_title_rb_bg_02t.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\drawable\\second_hand_title_rb_bg_02t.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",

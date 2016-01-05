@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "23.0.2"
+    buildToolsVersion "23.0.1"
 
 
     defaultConfig {
@@ -20,7 +20,7 @@ android {
 
     signingConfigs {
         debug {
-            storeFile file("F:\\setting\\life.keystore")
+            storeFile file('G:/setting/life.keystore')
         }
     }
 

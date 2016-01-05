@@ -4,12 +4,212 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_success_mask_layout.xml"
     },
     {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_modal_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_modal_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_error_x_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_error_x_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_out_to_top.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_in_from_left.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\umeng_fb_slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_in_from_bottom.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\zoomout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_imageview_rotate.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_imageview_rotate.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_cycle_5.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_cycle_5.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_scrshot_dlg.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_scrshot_dlg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_cycle_5.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_cycle_5.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\zoomin.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_success_bow_roate.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_success_bow_roate.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_modal_in.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_modal_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_out_from_right.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\umeng_fb_slide_out_from_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_success_mask_layout.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_success_mask_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_error_x_in.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_error_x_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_out_from_right.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\umeng_fb_slide_out_from_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_edit_anim.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_edit_anim.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_in_from_top.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_edit_anim.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_edit_anim.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_in_from_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_in_from_bottom.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\tip.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\tip.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_imageview_rotate.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_imageview_rotate.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_modal_out.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_modal_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -24,16 +224,12 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_out_to_top.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_out_to_top.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_dlg_scale.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_dlg_scale.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_in_from_bottom.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_in_from_bottom.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_error_frame_in.xml",
@@ -52,128 +248,112 @@
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_scrshot_dlg.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_success_bow_roate.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_success_bow_roate.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_dlg_alpha.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_dlg_alpha.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\zoomout.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\zoomout.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_imageview_rotate.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_imageview_rotate.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\push_left_in.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\push_left_in.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_out_to_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_out_to_bottom.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_modal_out.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_modal_out.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_cycle_5.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_cycle_5.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\push_left_out.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_modal_in.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_modal_in.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_success_bow_roate.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_success_bow_roate.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_dlg_alpha.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_dlg_alpha.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_in_from_right.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\umeng_fb_slide_in_from_right.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_error_frame_in.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_error_frame_in.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_exit.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_out_to_top.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_out_from_left.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\umeng_fb_slide_out_from_left.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\tip.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\tip.xml"
+    },
+    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_dlg_scale.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_dlg_scale.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\sweetalert_error_x_in.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\sweetalert_error_x_in.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_fade_out.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\fade_in.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_out_from_right.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\umeng_fb_slide_out_from_right.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\slide_down.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_out_to_bottom.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_out_to_bottom.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_in_from_top.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_in_from_top.xml"
-    },
-    {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\zoomin.xml"
     },
     {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\shake_umeng_socialize_edit_anim.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\shake_umeng_socialize_edit_anim.xml"
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\wchat_pulltorefresh_slide_in_from_top.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\wchat_pulltorefresh_slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_in_from_right.xml",
+        "source": "E:\\AndroidStudio\\LifeAssistants\\lifeAssistants\\src\\main\\res\\anim\\umeng_fb_slide_in_from_right.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
         "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\LifeAssistants\\share_sdk_library\\unspecified\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "E:\\AndroidStudioHome\\LifeAssistants\\lifeAssistants\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_out_from_left.xml",
